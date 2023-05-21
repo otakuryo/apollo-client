@@ -16,7 +16,7 @@ A [Vue.js](https://vuejs.org/) integration is maintained by Guillaume Chau ([@Ak
 
 ## Svelte
 
-A [Svelte](https://svelte.dev) integration is maintained by Tim Hall ([@timhall](https://github.com/timhall)). See the Github [repository](https://github.com/timhall/svelte-apollo) for more details.
+A [Svelte](https://svelte.dev) integration is maintained by community dedicated to urql ([@urql-graphql](https://github.com/urql-graphql/urql)). See the [docs](https://formidable.com/open-source/urql/docs/basics/svelte/) for more details.
 
 ## Angular
 
